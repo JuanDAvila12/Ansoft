@@ -3,7 +3,6 @@
     "@supabase/auth-helpers-nextjs": "^0.15.0",
     "@supabase/supabase-js": "^2.105.3",
     "@tailwindcss/postcss": "^4.3.3",
-    "@types/node": "^25.6.0",
     "autoprefixer": "^10.5.0",
     "next": "^16.2.4",
     "react": "^19.2.5",
@@ -11,7 +10,9 @@
     "tailwindcss": "^4.2.4"
   },
   "devDependencies": {
-    "@types/react": "^19.2.14",
-    "@types/react-dom": "^19.2.3"
+    "@types/node": "^26.1.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "typescript": "^7.0.2"
   }
 }
