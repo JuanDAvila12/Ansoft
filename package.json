@@ -15,4 +15,10 @@
     "@types/react-dom": "^19.2.4",
     "typescript": "^5.9.2"
   }
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "vercel-build": "next build"
+}
 }
